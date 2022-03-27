@@ -1,10 +1,20 @@
 body {
-  background-color: blue;
+  background-color: #f8e8a6;
 }
 h1 {
   text-align: center;
-  color: white;
+  color: black;
 }
-a {
-  color: white;
+
+footer {
+  color: green;
+  text-align: center;
+  display: block;
+}
+p {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
 }
